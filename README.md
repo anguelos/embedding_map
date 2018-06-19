@@ -23,4 +23,7 @@ The pdfs are saved in embedding_map and producing them should take less than a m
 
 # Using the mAP code
 
-File ./src/map.py is a python module that contains a fast implementation for computing *mAP* including the improovements discussed in the paper. 
+File ./src/map.py is a python module that contains a fast implementation for computing *mAP* including the improovements discussed in the paper.
+Code in ./src/experiments.py is a good demonstration of how to use the code.
+
+# This code contains all experiments and quantitative analysis of the paper in ./docs/maps-stability-evaluation.pdf.
